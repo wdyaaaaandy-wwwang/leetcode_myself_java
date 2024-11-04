@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e35cb09b-9efd-46ed-b64b-a08aed68b580" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="$PROJECT_DIR$/../maven/apache-maven-3.6.3" />
+        <option name="localRepository" value="H:\maven_repo" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="H:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2fA8wnhUtTrE8No5kAH6JoPCQqq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "G:/东汽/data-alignment-server-develop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "fileTemplates",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.BFS.executor": "Run",
+    "应用程序.accountBalanceAfterPurchase.executor": "Run",
+    "应用程序.combinationSum2.executor": "Run",
+    "应用程序.countCompleteDayPairs.executor": "Run",
+    "应用程序.duplicateNumbersXOR.executor": "Run",
+    "应用程序.findWinningPlayer.executor": "Run",
+    "应用程序.generateParenthesis.executor": "Run",
+    "应用程序.getSmallestString.executor": "Run",
+    "应用程序.maxEnergyBoost.executor": "Run",
+    "应用程序.maxHeightOfTriangle.executor": "Run",
+    "应用程序.maxTotalReward.executor": "Run",
+    "应用程序.minOperations.executor": "Run",
+    "应用程序.minimumAverage.executor": "Run",
+    "应用程序.minimumPossibleSum.executor": "Run",
+    "应用程序.minimumTotal.executor": "Run",
+    "应用程序.numberOfPairs.executor": "Run",
+    "应用程序.smallestRangeII.executor": "Run",
+    "应用程序.validStrings.executor": "Run"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BFS" />
+      <module name="leetcode_coding_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="findWinningPlayer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="findWinningPlayer" />
+      <module name="leetcode_coding_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="garbageCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="garbageCollection" />
+      <module name="leetcode_coding_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.BFS" />
+        <item itemvalue="应用程序.findWinningPlayer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e35cb09b-9efd-46ed-b64b-a08aed68b580" name="更改" comment="" />
+      <created>1713232763951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713232763951</updated>
+      <workItem from="1726024241545" duration="18000" />
+      <workItem from="1726024264513" duration="3296000" />
+      <workItem from="1727582920228" duration="5180000" />
+      <workItem from="1728614378251" duration="46714000" />
+      <workItem from="1729479920972" duration="20857000" />
+      <workItem from="1729749857883" duration="17006000" />
+      <workItem from="1730095566522" duration="5413000" />
+      <workItem from="1730182037826" duration="12245000" />
+      <workItem from="1730260495687" duration="5286000" />
+      <workItem from="1730339278042" duration="2865000" />
+      <workItem from="1730345530877" duration="9840000" />
+      <workItem from="1730443830774" duration="1532000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
