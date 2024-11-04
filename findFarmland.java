@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @author Andy Wang
- * @version 1.0
+ * @version
  * @date 2024/5/31 10:07
  * @Description 1992.找到所有的农场组 DFS 中等
  * 题目描述：给你一个下标从 0 开始，大小为 m x n 的二进制矩阵 land ，其中 0 表示一单位的森林土地，1 表示一单位的农场土地。

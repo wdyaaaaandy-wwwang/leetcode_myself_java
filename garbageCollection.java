@@ -3,7 +3,7 @@ import java.util.Queue;
 
 /**
  * @author Andy Wang
- * @version 1.0
+ * @version
  * @date 2024/5/14 10:15
  * @Description 收集垃圾的最少总时间
  */

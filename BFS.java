@@ -1,5 +1,6 @@
 import java.util.*;
 //BFS：广度优先算法
+
 public class BFS {
     private int V;// 图中顶点的数量
     private LinkedList<Integer>[] adj; // 用邻接表表示图

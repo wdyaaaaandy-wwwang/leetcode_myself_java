@@ -6,6 +6,7 @@ import java.util.Queue;
  * @date 2024/5/14 12:08
  * @Description 994.腐烂的橘子（中等 & BFS广度优先搜索）
  */
+
 public class orangesRotting {
     public static void main(String args[]){
         int[][] grid={{2,1,1},{1,1,0},{0,1,1}};

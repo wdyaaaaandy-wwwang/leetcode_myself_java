@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * @author Andy Wang
- * @version 1.0
+ * @version
  * @date 2024/5/15 11:43
  * @Description 18.四数之和 双指针&朴素模拟 中等
  */

@@ -1,3 +1,5 @@
+
+
 public class maxHeightOfTriangle {
     public static int maxHeight(int x,int y) {
         int i=1;

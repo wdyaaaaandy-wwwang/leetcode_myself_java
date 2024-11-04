@@ -4,6 +4,7 @@
  * @date 2024/6/7 10:26
  * @Description 3038.相同分数的最大操作数目 Ⅰ  简单   每日一题   自己写的（已通过！）
  */
+
 public class maxOperations {
     public static void main(String[] agrs){
         int[] nums={3,2,6,1,4};

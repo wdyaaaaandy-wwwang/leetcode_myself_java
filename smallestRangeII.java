@@ -6,6 +6,7 @@ import java.util.Arrays;
  * @description: 910.最小差值 Ⅱ 中等
  * @date 2024/10/21 11:20
  */
+
 public class smallestRangeII {
     public static void main(String[] args) {
         int[] nums={2,7,2};

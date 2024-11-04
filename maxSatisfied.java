@@ -2,6 +2,7 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
+
 public class maxSatisfied {
     public static void main(String args[]){
 //        int[] grumpy={0,1,0,1,0,1,0,1};

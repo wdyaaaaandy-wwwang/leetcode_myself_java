@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @author Andy Wang
- * @version 1.0
+ * @version
  * @date 2024/6/5 11:03
  * @Description 120.三角形最小路径和   动态规划   中等
  */

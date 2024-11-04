@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author Andy Wang
- * @version 1.0
+ * @version
  * @date 2024/6/3 11:10
  * @Description 1103.分糖果Ⅱ 简单 简单的数学模拟
  * 自己写的，已通过！

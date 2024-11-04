@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * @author Andy Wang
- * @version 1.0
+ * @version
  * @date 2024/6/3 13:59
  * @Description 740.删除并获得点数  动态规划 中等（自己没写出来，看官方教程才知道本质是动态规划的打家劫舍翻版）
  * 题目描述：给你一个整数数组 nums ，你可以对它进行一些操作。

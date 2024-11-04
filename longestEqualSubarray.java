@@ -4,7 +4,7 @@ import java.util.Map;
 
 /**
  * @author Andy Wang
- * @version 1.0
+ * @version
  * @date 2024/5/24 9:07
  * @Description 2831.找出最长等值子数组（中等）
  */

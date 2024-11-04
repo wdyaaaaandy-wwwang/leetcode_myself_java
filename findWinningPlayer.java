@@ -4,7 +4,7 @@ import java.util.LinkedList;
 
 /**
  * @author Andy_Wang
- * @version 1.0
+ * @version
  * @description: 3175.找到连续赢得k场比赛的第一位玩家 中等
  * @date 2024/10/24 14:04
  */

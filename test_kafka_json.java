@@ -5,6 +5,7 @@ import java.io.*;
  * @date 2024/6/18 16:27
  * @Description 测试读取本地kafka文件是否正常的
  */
+
 public class test_kafka_json {
     public static void main(String[] args){
         String json = "null";

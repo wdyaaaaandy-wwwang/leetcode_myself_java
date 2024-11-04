@@ -1,6 +1,6 @@
 /**
  * @author Andy_Wang
- * @version 1.0
+ * @version
  * @description: 1436 旅行终点站 简单
  * @date 2024/10/16 13:54
  */

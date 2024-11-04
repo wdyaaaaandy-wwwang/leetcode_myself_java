@@ -1,6 +1,6 @@
 /**
  * @author Andy_Wang
- * @version 1.0
+ * @version
  * @description: 633 平方数之和 中等 二分查找 双指针
  * @date 2024/11/4 10:28
  * 看了答案 发现自己想歪了 其实是会做的 也算过了 加油加油！！！

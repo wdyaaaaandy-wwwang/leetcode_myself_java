@@ -20,6 +20,7 @@ import java.util.Arrays;
  * 输入: nums = [1,2,3,4,3]
  * 输出: [2,3,4,-1,4]
  */
+
 public class nextGreaterElements {
     public static void main(String[] args){
         int[] nums={1,2,1};

@@ -1,6 +1,6 @@
 /**
  * @author Andy_Wang
- * @version 1.0
+ * @version
  * @description: 3216 交换后字典序最小的字符串 简单 贪心 自己写过
  * @date 2024/10/30 16:47
  */

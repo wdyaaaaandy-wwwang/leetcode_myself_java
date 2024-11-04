@@ -1,6 +1,7 @@
 import java.util.Arrays;
 import java.util.HashSet;
 
+
 public class minimumAverage {
     public static void main(String[] args) {
         double[] nums={1,9,8,3,10,5};

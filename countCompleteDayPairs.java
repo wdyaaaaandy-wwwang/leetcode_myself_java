@@ -1,6 +1,6 @@
 /**
  * @author Andy_Wang
- * @version 1.0
+ * @version
  * @description: 3184.构成整天的下标对数目Ⅰ 简单 + 3184.构成整天的下标对数目Ⅱ 中等
  * @date 2024/10/22 10:04
  */

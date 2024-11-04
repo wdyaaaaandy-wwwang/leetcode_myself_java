@@ -15,6 +15,7 @@ import java.util.Arrays;
  * 如果该字母被标记过，则该字母为没有被字母 X 包围的字母 O，我们将其还原为字母 O；
  * 如果该字母没有被标记过，则该字母为被字母 X 包围的字母 O，我们将其修改为字母 X。
  */
+
 public class solve {
     public static void dfs(int i,int j,char[][] board){
         if (i < 0 || i >= board.length || j < 0 || j >= board[0].length || board[i][j] != 'O'){

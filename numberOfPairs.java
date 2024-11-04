@@ -1,5 +1,6 @@
 import java.util.Arrays;
 
+
 public class numberOfPairs {
     public static void main(String[] args) {
 //        int[] nums1={1,3,4};

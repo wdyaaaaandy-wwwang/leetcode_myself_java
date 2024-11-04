@@ -3,7 +3,7 @@ import java.util.HashMap;
 
 /**
  * @author Andy Wang
- * @version 1.0
+ * @version
  * @date 2024/6/7 11:24
  * @Description 3158.求出出现两次数字的XOR值   简单
  */

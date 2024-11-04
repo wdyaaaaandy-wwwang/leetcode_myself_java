@@ -4,6 +4,7 @@
  * @description: TODO
  * @date 2024/11/1 14:50
  */
+
 public class maxEnergyBoost {
     public static long maxEnergyBoost(int[] energyDrinkA, int[] energyDrinkB) {
         int n=energyDrinkA.length;

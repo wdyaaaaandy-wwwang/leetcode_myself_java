@@ -5,6 +5,7 @@ import java.util.Arrays;
  * @version 1.0
  * @description: 3191.使二进制数组全部等于一的最小操作次数  中等，贪心+位运算 自己写过
  * @date 2024/10/18 11:58
+ *
  */
 public class minOperations {
     public static void swap(int[] arr,int k){

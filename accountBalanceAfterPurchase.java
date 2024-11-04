@@ -4,6 +4,7 @@
  * @date 2024/6/12 14:55
  * @Description 2806.取整购买后的账户余额  简单     已自己写出来！
  */
+
 public class accountBalanceAfterPurchase {
     public static void main(String[] agrs){
         int purchaseAmount = 17;
