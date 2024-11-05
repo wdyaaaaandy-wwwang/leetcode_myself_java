@@ -15,11 +15,11 @@ public class missingRolls {
         int[] rolls={3,2,4,3};
         int mean=4;
         int n=2;
-        int m= rolls.length;
+        int m=rolls.length;
         int allSum=(m+n)*mean;
         int[] dice={1,2,3,4,5,6};
         int i,j;
-        int aimSum=allSum- Arrays.stream(rolls).sum();
+        int aimSum=allSum-Arrays.stream(rolls).sum();
         System.out.println(aimSum);
 
     }
