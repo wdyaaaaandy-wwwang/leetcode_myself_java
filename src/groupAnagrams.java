@@ -8,6 +8,7 @@ import java.util.Arrays;
  * @version 1.0
  * @description: 49.字母异位词分组
  * 给你一个字符串数组，请你将 字母异位词 组合在一起。可以按任意顺序返回结果列表
+ * 自己差一点写出来了，在文心一言的帮助下成功过关
  * @date 2024/11/5 10:10
  */
 public class groupAnagrams {
