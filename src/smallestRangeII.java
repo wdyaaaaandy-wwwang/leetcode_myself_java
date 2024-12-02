@@ -33,7 +33,7 @@ public class smallestRangeII {
 //        } else if (compare2>compare1&&compare2>=0&&compare1<0) {
 //            System.out.println(compare1);
 //        }
-        //System.out.println(Math.min((nums[1]-k-nums[0]-k),nums[nums.length-1]-k-nums[nums.length-2]-k));
+//        System.out.println(Math.min((nums[1]-k-nums[0]-k),nums[nums.length-1]-k-nums[nums.length-2]-k));
         System.out.println(Math.min(Math.abs(compare1),Math.abs(compare2)));
     }
 }
