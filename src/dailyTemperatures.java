@@ -1,14 +1,27 @@
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Stack;
+import java.util.*;
 
 /**
  * @author Andy_Wang
  * @version 1.0
- * @description: TODO
+ * @description: 739. 每日温度  中等 栈 数组 单调栈  自己理解了，但差一点点写出来
  * @date 2024/12/2 18:32
  */
 public class dailyTemperatures {
+    public static int[] dailyTemperatures_official(int[] temperatures) {
+        int length = temperatures.length;
+        int[] ans = new int[length];
+        Deque<Integer> stack = new LinkedList<>();
+        for (int i = 0; i < length; i++) {
+            int temperature = temperatures[i];
+            while (!stack.isEmpty() && temperature > temperatures[stack.peek()]) {
+                int prevIndex = stack.pop();
+                ans[prevIndex] = i - prevIndex;
+            }
+            stack.push(i);
+        }
+        return ans;
+    }
+
     public static int[] dailyTemperatures(int[] temperatures) {
         int[] res = new int[temperatures.length];
         int position=0;
@@ -28,8 +41,7 @@ public class dailyTemperatures {
                 break;
             }
             if (stack.peek()<temperatures[i]){
-                    int pos1 = map.get(stack.peek());
-//                    int pos2 = map.get(temperatures[i]);
+                    int pos1 = i;
                     int pos2 = two[i][1];
                     int result=pos2-pos1;
                     stack.pop();
